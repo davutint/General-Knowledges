@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: New Question 13
+  m_EditorClassIdentifier: 
+  questionText: "Nizam\xFClm\xFClk hangi T\xFCrk devleti d\xF6neminde vezirlik yapm\u0131\u015Ft\u0131r? "
+  answers:
+  - "Osmanl\u0131lar"
+  - "Sel\xE7uklular"
+  - "Karahanl\u0131lar"
+  - "Mo\u011Follar"
+  correctAnswerIndex: 1
+  "\u0131pucu": {fileID: 21300000, guid: 3271ddd32cdc84d12abd3af25f584230, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": "\u0130smi \u2018Devletin D\xFCzeni\u2019 anlam\u0131na
+    gelen b\xFCy\xFCk vezirdir. Kendisi Farsd\u0131r. B\xFCy\xFCk Sel\xE7uklu \u0130mparatorlu\u011Fu\u2019nun
+    ba\u015F veziri olmu\u015Ftur. "

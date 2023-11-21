@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: New Question 6
+  m_EditorClassIdentifier: 
+  questionText: "Konya\u2019da bulunan ve d\xFCnyan\u0131n en eski yerle\u015Fim
+    yerlerinden biri olarak g\xF6sterilen ve yap\u0131lan kaz\u0131larda \u2018Ana
+    Tanr\u0131\xE7a\u2019 k\xFClt\xFCne pek \xE7ok g\xF6nderme bulunan yerle\u015Fim
+    yeri neresidir ? "
+  answers:
+  - "G\xF6beklitepe"
+  - "\xC7atalh\xF6y\xFCk"
+  - "\xC7ay\xF6n\xFC"
+  - Arslantepe
+  correctAnswerIndex: 1
+  "\u0131pucu": {fileID: 21300000, guid: 9bcd7e779e91643a78f9134e091bb8fb, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": "\xC7atalh\xF6y\xFCk, 9 bin y\u0131l \xF6ncesinden
+    Anadoluda var olmu\u015F Neolitik ve Kalkolitik \xC7a\u011F yerle\u015Fim yeridir. "

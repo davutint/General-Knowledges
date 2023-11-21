@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: New Question 17
+  m_EditorClassIdentifier: 
+  questionText: "Hangisi Milli M\xFCcadele d\xF6neminde yap\u0131lm\u0131\u015F bir
+    sava\u015Ft\u0131r? "
+  answers:
+  - "\xC7anakkale Sava\u015F\u0131 "
+  - "I.\u0130n\xF6n\xFC muhaberesi"
+  - "Kut\u2019ul Amare Sava\u015F\u0131 "
+  - "\u0130nebaht\u0131 Deniz Muhaberesi "
+  correctAnswerIndex: 1
+  "\u0131pucu": {fileID: 21300000, guid: 96c9a0057b7724fef8fe3360939a20b6, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": "I. \u0130n\xF6n\xFC Muhaberesi Yunan ordusunun
+    anadolu i\xE7erisinde ilerlemesinin durdurulmas\u0131 ile T\xFCrk zaferi ile
+    sonu\xE7lanm\u0131\u015Ft\u0131r. \xDC\xE7 kat b\xFCy\xFCkl\xFCkteki d\xFC\u015Fman\u0131n
+    bertaraf\u0131 halktaki \u0130stiklal ate\u015Fini daha da harlam\u0131\u015Ft\u0131r. "

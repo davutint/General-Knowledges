@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: New Question 3
+  m_EditorClassIdentifier: 
+  questionText: "\u0130stanbul\u2019da bulunan ve bo\u011Faz\u0131n en dar noktas\u0131na
+    in\u015Faa edilen Anadolu Hasar\u0131n\u0131 hangi padi\u015Fah yapt\u0131rm\u0131\u015Ft\u0131r?"
+  answers:
+  - Fatih Sultan Mehmet
+  - "Y\u0131ld\u0131r\u0131m Beyaz\u0131t "
+  - "Kanuni Sultan S\xFCleyman"
+  - II.Murad
+  correctAnswerIndex: 1
+  "\u0131pucu": {fileID: 21300000, guid: 61a456ae1a32543b885509f9577b3382, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": "Anadolu Hasar\u0131, 1395 y\u0131l\u0131nda
+    Y\u0131ld\u0131r\u0131m Beyaz\u0131t taraf\u0131ndan yapt\u0131r\u0131lm\u0131\u015Ft\u0131r."

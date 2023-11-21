@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: 10
+  m_EditorClassIdentifier: 
+  questionText: Who Invented the World Wide Web (www)?
+  answers:
+  - Douglas Engelbart
+  - "S\xF6r Timothy John Berners-Lee"
+  - Bill Gates
+  - Jerry Lawson
+  correctAnswerIndex: 1
+  "\u0131pucu": {fileID: 21300000, guid: 8534bef8ebef144d2ac3c94062099185, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": Tim Berners-Lee, a British scientist, invented
+    the World Wide Web (WWW) in 1989, while working at CERN. The web was originally
+    conceived and developed to meet the demand for automated information-sharing
+    between scientists in universities and institutes around the world.

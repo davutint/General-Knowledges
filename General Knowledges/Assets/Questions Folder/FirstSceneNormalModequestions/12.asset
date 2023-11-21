@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: 12
+  m_EditorClassIdentifier: 
+  questionText: Which is the hottest planet in the Solar System?
+  answers:
+  - Mercury
+  - Saturn
+  - Venus
+  - Jupiter
+  correctAnswerIndex: 2
+  "\u0131pucu": {fileID: 21300000, guid: e0226af9ad33343c99522b1579f976ab, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": "Venus' thick atmosphere traps heat creating
+    a runaway greenhouse effect \u2013 making it the hottest planet in our solar
+    system with surface temperatures hot enough to melt lead. The greenhouse effect
+    makes Venus roughly 700\xB0F (390\xB0C) hotter than it would be without a greenhouse
+    effect. "

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: New Question 15
+  m_EditorClassIdentifier: 
+  questionText: How fast is the light?
+  answers:
+  - 150.000 km/sec
+  - 200.000 km/sec
+  - 300.000 km/sec
+  - 500.000 km/sec
+  correctAnswerIndex: 2
+  "\u0131pucu": {fileID: 21300000, guid: 00bb3d78905434b30b4982f5da71ffb8, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": Its exact value is 299,792,458 meters per second.
+    (It is said to be approximately 300,000 km/h.)

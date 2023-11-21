@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: New Question 16
+  m_EditorClassIdentifier: 
+  questionText: "T\xFCrklerin efsane K\xFCr\u015Fad Ayaklanmas\u0131 hangi millete
+    kar\u015F\u0131 yap\u0131lm\u0131\u015Ft\u0131r? "
+  answers:
+  - "Mo\u011Follar"
+  - "\xC7inliler"
+  - Ruslar
+  - Safeviler
+  correctAnswerIndex: 1
+  "\u0131pucu": {fileID: 21300000, guid: b7805838c189346cfa30b308a245e9e6, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": "T\xFCrklerin ba\u011F\u0131ms\u0131zl\u0131\u011F\u0131n\u0131
+    kazanmak amac\u0131yla 630-680 y\u0131llar\u0131 aras\u0131nda \xC7in \u0130mparatorlu\u011Funa
+    kar\u015F\u0131 yap\u0131lan ayaklanmad\u0131r. "

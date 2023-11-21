@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: New Question 18
+  m_EditorClassIdentifier: 
+  questionText: "T\xFCrk mitolojisinde kutsal hayvan ve ulusal sembol olan Bozkurt
+    hangi banknotun \xFCzerine bas\u0131lm\u0131\u015Ft\u0131r? "
+  answers:
+  - '20 Lira- 1972 '
+  - 5 Lira-1927
+  - '10 Lira-1955 '
+  - '100 Lira- 2008 '
+  correctAnswerIndex: 1
+  "\u0131pucu": {fileID: 21300000, guid: 571fb82a8e41d43eb9ed5ce5f9ea061b, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": "Cumhuriyetimizin ilk y\u0131llar\u0131nda
+    Atat\xFCrk\u2019\xFCn ortaya koydu\u011Fu tav\u0131r tam bir ulus devlettir.
+    T\xFCrkl\xFCk her y\xF6n\xFCyle \xF6nemsenmi\u015F ve bu \xF6nem sembol\xFCm\xFCz\xFCn
+    param\u0131zda var olmas\u0131yla da g\xF6sterilmi\u015Ftir. "

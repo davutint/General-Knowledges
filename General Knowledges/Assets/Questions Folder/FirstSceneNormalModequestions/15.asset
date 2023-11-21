@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: 15
+  m_EditorClassIdentifier: 
+  questionText: Which giant world brand was originally known as "Blue Ribbon Sports"?
+  answers:
+  - New Balance
+  - Nike
+  - Adidas
+  - Asics
+  correctAnswerIndex: 1
+  "\u0131pucu": {fileID: 21300000, guid: 45b9a3644336641989c5f11a3d1717bc, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": Blue Ribbon Sports, Inc. Beaverton, Oregon,
+    U.S. The company was founded on January 25, 1964, as "Blue Ribbon Sports", by
+    Bill Bowerman and Phil Knight, and officially became Nike, Inc. on May 30, 1971.
+    The company takes its name from Nike, the Greek goddess of victory.

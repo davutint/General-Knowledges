@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: New Question 4
+  m_EditorClassIdentifier: 
+  questionText: Which animal can be seen on the Porsche logo?
+  answers:
+  - Dog
+  - Lion
+  - Bird
+  - Horse
+  correctAnswerIndex: 3
+  "\u0131pucu": {fileID: 21300000, guid: 9526cc821cc2a4f468a154b5ca2d18af, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": 'The Porsche logo crest is based on two coats
+    of arms. The rearing black horse is based on the coat of arms of Stuttgart, the
+    city in which Porsche started. '

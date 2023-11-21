@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  questionText: Which is the smallest country in the world by area?
+  answers:
+  - Greece
+  - Germany
+  - Cuba
+  - 'Vatican City '
+  correctAnswerIndex: 3
+  "\u0131pucu": {fileID: 21300000, guid: 00c5a80f5ff3e4a4688b5b1334f88580, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": The smallest country in the world is Vatican
+    City, with a landmass of just 0.49 square kilometers (0.19 square miles). Vatican
+    City is an independent state surrounded by Rome.

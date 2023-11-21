@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: 14
+  m_EditorClassIdentifier: 
+  questionText: Which planet has the most moons in the Solar System?
+  answers:
+  - Jupiter
+  - Mars
+  - Saturn
+  - Mercury
+  correctAnswerIndex: 2
+  "\u0131pucu": {fileID: 21300000, guid: 3cda50493db214e2d96c6133491eb0f2, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": 'Saturn has 82 moons. Of those, 53 are confirmed
+    moons, and 29 are provisional, meaning they need to be confirmed by additional
+    observation.  '

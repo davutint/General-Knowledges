@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: New Question 17
+  m_EditorClassIdentifier: 
+  questionText: What is the Name of the World's Longest River?
+  answers:
+  - Nile
+  - Amazon
+  - Mississippi
+  - Congo
+  correctAnswerIndex: 0
+  "\u0131pucu": {fileID: 21300000, guid: 11e57d9ada7854a3380765fa8dbc4e04, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": The Nile River is the longest river in the
+    world with a length of 6853 km. Its basin occupies one-tenth of the African continent.
+    Its length over Egypt alone is 1500 km.

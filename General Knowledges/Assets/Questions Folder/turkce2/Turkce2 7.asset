@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: Turkce2 7
+  m_EditorClassIdentifier: 
+  questionText: "Hangisi Afrika k\u0131tas\u0131ndad\u0131r? "
+  answers:
+  - Mozambik
+  - Paraguay
+  - Kolombiya
+  - Myanmar
+  correctAnswerIndex: 0
+  "\u0131pucu": {fileID: 21300000, guid: e8933c99e7b7d4840b910936179415be, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": "Mozambik Cumhuriyeti, Afrika\u2019n\u0131n
+    g\xFCneydo\u011Fusunda yer alan bir \xFClkedir."

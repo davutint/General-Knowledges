@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: Turkce2 3
+  m_EditorClassIdentifier: 
+  questionText: "\"Sorgulanmam\u0131\u015F bir hayat, ya\u015Fanmaya de\u011Fmez.\"
+    s\xF6z\xFC kime aittir? "
+  answers:
+  - Platon
+  - Sokrates
+  - Rene Descartes
+  - Orhan Pamuk
+  correctAnswerIndex: 1
+  "\u0131pucu": {fileID: 21300000, guid: 17cdb897bb6af4f8da9b676b32f6ffd2, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": "Sokrates\u2019e g\xF6re insan, ya\u015Fad\u0131\u011F\u0131
+    hayat\u0131 ve bu hayat\u0131n temel de\u011Ferlerini sorgulamal\u0131d\u0131r.
+    Ona g\xF6re\_\u201CSorgulanmam\u0131\u015F bir hayat ya\u015Fanmaya de\u011Fmez\u201D."

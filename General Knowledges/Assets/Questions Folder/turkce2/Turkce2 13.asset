@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: Turkce2 13
+  m_EditorClassIdentifier: 
+  questionText: "D\xFCnyan\u0131n En Uzun Nehrinin Ad\u0131 Nedir? "
+  answers:
+  - 'Amazon Nehri '
+  - Nil Nehri
+  - 'Missisippi Nehri '
+  - "F\u0131rat Nehri "
+  correctAnswerIndex: 1
+  "\u0131pucu": {fileID: 21300000, guid: 11e57d9ada7854a3380765fa8dbc4e04, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": "Nil Nehri 6853 km uzunlu\u011Fu ile d\xFCnyadaki
+    en uzun nehirdir. Havzas\u0131 Afrika k\u0131tas\u0131n\u0131n onda birini kaplar.
+    Sadece M\u0131s\u0131r \xFCzerindeki uzunlu\u011Fu 1500 km\u2019dir."

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: Turkce2 17
+  m_EditorClassIdentifier: 
+  questionText: "T\xFCrkiye Cumhuriyeti'nin kat\u0131ld\u0131\u011F\u0131 ilk uluslararas\u0131
+    organizasyon hangisidir?"
+  answers:
+  - "\u0130sve\xE7 Yaz Olimpiyatlar\u0131 "
+  - "Paris Yaz Olimpiyatlar\u0131"
+  - "Amsterdam Yaz Olimpiyatlar\u0131 "
+  - "Londra Yaz Olimpiyatlar\u0131 "
+  correctAnswerIndex: 1
+  "\u0131pucu": {fileID: 21300000, guid: 5dec4c2d75f37456b92a55eebc5883cd, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": "T\xFCrkiye Cumhuriyeti\u2019nin kat\u0131ld\u0131\u011F\u0131
+    ilk uluslararas\u0131 organizasyon 1924 Paris Yaz Olimpiyatlar\u0131d\u0131r."

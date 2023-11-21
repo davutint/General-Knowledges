@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c390ac8e144d3488694abc01db8152ba, type: 3}
+  m_Name: Turkce2 20
+  m_EditorClassIdentifier: 
+  questionText: "Hangisi bu topraklarda ya\u015Fam\u0131\u015F bilginlerden biri
+    de\u011Fildir? "
+  answers:
+  - Homeros
+  - Diyojen
+  - Thales
+  - "Epik\xFCr"
+  correctAnswerIndex: 3
+  "\u0131pucu": {fileID: 21300000, guid: 4974cd241e49d44919c5adb73059c8da, type: 3}
+  "Cevan\u0131nAc\u0131klamas\u0131": "Epik\xFCr Atinal\u0131d\u0131r. Homeros \u0130zmir
+    , Diyojen Sinop ve Thales Ayd\u0131n\u2019da ya\u015Fam\u0131\u015Ft\u0131r."
